@@ -796,47 +796,41 @@ if( ! function_exists( 'ftc_header_mobile_navigation' ) ) {
                     </button>
                     <?php esc_html_e('Menu', 'ornaldo') ?>
                 </div>
-
                 <div class="mobile-menu-wrapper">
                     <?php wp_nav_menu( array( 'theme_location' => '','menu' => 'main menu', 'menu_id' => 'main-menu', 'menu_class' => 'ftc-smartmenu ftc-simple') ); ?>
                 </div>
-                <?php
-                global $smof_data, $woocommerce;
-                if ($smof_data['ftc_mobile_layout']): 
-                    ?>
-                    <div class="mobile-wishlist">
-                    
-                     <?php if( class_exists('YITH_WCWL')): ?>
-
-
-                        <div class="ftc-my-wishlist"><?php echo ftc_tini_wishlist(); ?></div>
-                    <?php endif; ?>
-
-                </div>
-                 <div class="mobile-account">
-                            <?php 
+                <!-- <?php
+                    global $smof_data, $woocommerce;
+                    if ($smof_data['ftc_mobile_layout']): 
+                ?>
+                    <div class="mobile-wishlist">    
+                        <?php if( class_exists('YITH_WCWL')): ?>
+                            <div class="ftc-my-wishlist"><?php echo ftc_tini_wishlist(); ?></div>
+                        <?php endif; ?>
+                    </div>
+                    <div class="mobile-account">
+                        <?php 
                             $_user_logged = is_user_logged_in();
                             ob_start();
-                            ?>
-                            <a href="<?php echo esc_url(get_permalink(get_option('woocommerce_myaccount_page_id') ) ); ?>" title="<?php  echo esc_html_e('Login','ornaldo'); ?>">
-                                <?php if ($_user_logged): ?>
-                                    <?php echo esc_html_e('Account','ornaldo'); ?>
-                                <?php endif; ?>
-                                <?php if (!$_user_logged): ?>
-                                    <?php echo esc_html_e('Login','ornaldo'); ?>
-                                <?php endif; ?>
-                            </a>
-                        </div>
-        <?php endif; ?>
-        <?php if(isset($smof_data['ftc_header_social_editor'])){ ?>
-                    <div class="header-mobile-social">
-                        <?php echo wp_kses_post( do_shortcode($smof_data['ftc_header_social_editor']) ); ?>
+                        ?>
+                        <a href="<?php echo esc_url(get_permalink(get_option('woocommerce_myaccount_page_id') ) ); ?>" title="<?php  echo esc_html_e('Login','ornaldo'); ?>">
+                            <?php if ($_user_logged): ?>
+                                <?php echo esc_html_e('Account','ornaldo'); ?>
+                            <?php endif; ?>
+                            <?php if (!$_user_logged): ?>
+                                <?php echo esc_html_e('Login','ornaldo'); ?>
+                            <?php endif; ?>
+                        </a>
                     </div>
-                <?php } ?>
-    </div>
-    <?php
-endif;
-}
+                <?php endif; ?> -->
+            </div>
+            <?php if(isset($smof_data['ftc_header_social_editor'])){ ?>
+                <div class="header-mobile-social">
+                    <?php echo wp_kses_post( do_shortcode($smof_data['ftc_header_social_editor']) ); ?>
+                </div>
+            <?php } ?>
+        <?php endif; ?>
+    }
 }
 
 /* * * Logo Mobile** */
