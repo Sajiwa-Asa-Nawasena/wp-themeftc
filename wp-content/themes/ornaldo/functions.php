@@ -800,7 +800,7 @@ if( ! function_exists( 'ftc_header_mobile_navigation' ) ) {
                 <div class="mobile-menu-wrapper">
                     <?php wp_nav_menu( array( 'theme_location' => '','menu' => 'main menu', 'menu_id' => 'main-menu', 'menu_class' => 'ftc-smartmenu ftc-simple') ); ?>
                 </div>
-                <!-- <?php
+                <?php
                     global $smof_data, $woocommerce;
                     if ($smof_data['ftc_mobile_layout']): 
                 ?>
@@ -823,7 +823,7 @@ if( ! function_exists( 'ftc_header_mobile_navigation' ) ) {
                             <?php endif; ?>
                         </a>
                     </div>
-                <?php endif; ?> -->
+                <?php endif; ?>
             </div>
             <?php if(isset($smof_data['ftc_header_social_editor'])) { ?>
                 <div class="header-mobile-social">
@@ -831,11 +831,12 @@ if( ! function_exists( 'ftc_header_mobile_navigation' ) ) {
                 </div>
             <?php } ?>
         <?php endif; ?>
+    <?php
     }
 }
 
 /* * * Logo Mobile * * */
-<?php if (!function_exists('ftc_theme_mobile_logo')) {
+if (!function_exists('ftc_theme_mobile_logo')) {
     function ftc_theme_mobile_logo() {
         global $smof_data;
         $logo_image = isset($smof_data['ftc_logo_mobile']['url']) ? esc_url($smof_data['ftc_logo_mobile']['url']) : '';
@@ -856,11 +857,12 @@ if( ! function_exists( 'ftc_header_mobile_navigation' ) ) {
                 ?>
             </a>
         </div>
+    <?php
     }
 }
 
 /* * * Favicon ** */
-<?php if (!function_exists('ftc_theme_favicon')) {
+if (!function_exists('ftc_theme_favicon')) {
 
     function ftc_theme_favicon() {
         if (function_exists('wp_site_icon') && function_exists('has_site_icon') && has_site_icon()) {
