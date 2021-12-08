@@ -794,7 +794,7 @@ if( ! function_exists( 'ftc_header_mobile_navigation' ) ) {
                         <i class="fas fa-fw fa-bars"></i>
                         <!-- <i class="fa fa-close"></i> -->
                     </button>
-                    // <?php esc_html_e('Menu', 'ornaldo') ?>
+                    <!-- <?php esc_html_e('Menu', 'ornaldo') ?> -->
                 </div>
 
                 <div class="mobile-menu-wrapper">
