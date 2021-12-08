@@ -1,0 +1,888 @@
+2021-11-24T07:35:50+00:00 CRITICAL Uncaught Error: Call to a member function is_empty() on null in /home/vafh5947/public_html/wp-content/plugins/woocommerce/templates/cart/mini-cart.php:24
+Stack trace:
+#0 /home/vafh5947/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include()
+#1 /home/vafh5947/public_html/wp-content/plugins/woocommerce/includes/wc-template-functions.php(2215): wc_get_template('cart/mini-cart....', Array)
+#2 /home/vafh5947/public_html/wp-content/themes/ornaldo/inc/woo/functions.php(146): woocommerce_mini_cart()
+#3 /home/vafh5947/public_html/wp-includes/class-wp-hook.php(303): ftc_canvas_cart('')
+#4 /home/vafh5947/public_html/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#5 /home/vafh5947/public_html/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#6 /home/vafh5947/public_html/wp-includes/general-template.php(3031): do_action('wp_footer')
+#7 /home/vafh5947/public_html/wp-includes/blocks/legacy-widget.php(123): wp_footer()
+#8 /home/vafh5947/public_html/wp-includes/ in /home/vafh5947/public_html/wp-content/plugins/woocommerce/templates/cart/mini-cart.php on line 24
+
+2021-11-24T07:35:50+00:00 CRITICAL Uncaught Error: Call to a member function is_empty() on null in /home/vafh5947/public_html/wp-content/plugins/woocommerce/templates/cart/mini-cart.php:24
+Stack trace:
+#0 /home/vafh5947/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include()
+#1 /home/vafh5947/public_html/wp-content/plugins/woocommerce/includes/wc-template-functions.php(2215): wc_get_template('cart/mini-cart....', Array)
+#2 /home/vafh5947/public_html/wp-content/themes/ornaldo/inc/woo/functions.php(146): woocommerce_mini_cart()
+#3 /home/vafh5947/public_html/wp-includes/class-wp-hook.php(303): ftc_canvas_cart('')
+#4 /home/vafh5947/public_html/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#5 /home/vafh5947/public_html/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#6 /home/vafh5947/public_html/wp-includes/general-template.php(3031): do_action('wp_footer')
+#7 /home/vafh5947/public_html/wp-includes/blocks/legacy-widget.php(123): wp_footer()
+#8 /home/vafh5947/public_html/wp-includes/ in /home/vafh5947/public_html/wp-content/plugins/woocommerce/templates/cart/mini-cart.php on line 24
+
+2021-11-24T07:35:52+00:00 CRITICAL Uncaught Error: Call to a member function is_empty() on null in /home/vafh5947/public_html/wp-content/plugins/woocommerce/templates/cart/mini-cart.php:24
+Stack trace:
+#0 /home/vafh5947/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include()
+#1 /home/vafh5947/public_html/wp-content/plugins/woocommerce/includes/wc-template-functions.php(2215): wc_get_template('cart/mini-cart....', Array)
+#2 /home/vafh5947/public_html/wp-content/themes/ornaldo/inc/woo/functions.php(146): woocommerce_mini_cart()
+#3 /home/vafh5947/public_html/wp-includes/class-wp-hook.php(303): ftc_canvas_cart('')
+#4 /home/vafh5947/public_html/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#5 /home/vafh5947/public_html/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#6 /home/vafh5947/public_html/wp-includes/general-template.php(3031): do_action('wp_footer')
+#7 /home/vafh5947/public_html/wp-includes/blocks/legacy-widget.php(123): wp_footer()
+#8 /home/vafh5947/public_html/wp-includes/ in /home/vafh5947/public_html/wp-content/plugins/woocommerce/templates/cart/mini-cart.php on line 24
+
+2021-11-24T07:35:52+00:00 CRITICAL Uncaught Error: Call to a member function is_empty() on null in /home/vafh5947/public_html/wp-content/plugins/woocommerce/templates/cart/mini-cart.php:24
+Stack trace:
+#0 /home/vafh5947/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include()
+#1 /home/vafh5947/public_html/wp-content/plugins/woocommerce/includes/wc-template-functions.php(2215): wc_get_template('cart/mini-cart....', Array)
+#2 /home/vafh5947/public_html/wp-content/themes/ornaldo/inc/woo/functions.php(146): woocommerce_mini_cart()
+#3 /home/vafh5947/public_html/wp-includes/class-wp-hook.php(303): ftc_canvas_cart('')
+#4 /home/vafh5947/public_html/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#5 /home/vafh5947/public_html/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#6 /home/vafh5947/public_html/wp-includes/general-template.php(3031): do_action('wp_footer')
+#7 /home/vafh5947/public_html/wp-includes/blocks/legacy-widget.php(123): wp_footer()
+#8 /home/vafh5947/public_html/wp-includes/ in /home/vafh5947/public_html/wp-content/plugins/woocommerce/templates/cart/mini-cart.php on line 24
+
+2021-11-24T07:35:53+00:00 CRITICAL Uncaught Error: Call to a member function is_empty() on null in /home/vafh5947/public_html/wp-content/plugins/woocommerce/templates/cart/mini-cart.php:24
+Stack trace:
+#0 /home/vafh5947/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include()
+#1 /home/vafh5947/public_html/wp-content/plugins/woocommerce/includes/wc-template-functions.php(2215): wc_get_template('cart/mini-cart....', Array)
+#2 /home/vafh5947/public_html/wp-content/themes/ornaldo/inc/woo/functions.php(146): woocommerce_mini_cart()
+#3 /home/vafh5947/public_html/wp-includes/class-wp-hook.php(303): ftc_canvas_cart('')
+#4 /home/vafh5947/public_html/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#5 /home/vafh5947/public_html/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#6 /home/vafh5947/public_html/wp-includes/general-template.php(3031): do_action('wp_footer')
+#7 /home/vafh5947/public_html/wp-includes/blocks/legacy-widget.php(123): wp_footer()
+#8 /home/vafh5947/public_html/wp-includes/ in /home/vafh5947/public_html/wp-content/plugins/woocommerce/templates/cart/mini-cart.php on line 24
+
+2021-11-24T07:35:54+00:00 CRITICAL Uncaught Error: Call to a member function is_empty() on null in /home/vafh5947/public_html/wp-content/plugins/woocommerce/templates/cart/mini-cart.php:24
+Stack trace:
+#0 /home/vafh5947/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include()
+#1 /home/vafh5947/public_html/wp-content/plugins/woocommerce/includes/wc-template-functions.php(2215): wc_get_template('cart/mini-cart....', Array)
+#2 /home/vafh5947/public_html/wp-content/themes/ornaldo/inc/woo/functions.php(146): woocommerce_mini_cart()
+#3 /home/vafh5947/public_html/wp-includes/class-wp-hook.php(303): ftc_canvas_cart('')
+#4 /home/vafh5947/public_html/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#5 /home/vafh5947/public_html/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#6 /home/vafh5947/public_html/wp-includes/general-template.php(3031): do_action('wp_footer')
+#7 /home/vafh5947/public_html/wp-includes/blocks/legacy-widget.php(123): wp_footer()
+#8 /home/vafh5947/public_html/wp-includes/ in /home/vafh5947/public_html/wp-content/plugins/woocommerce/templates/cart/mini-cart.php on line 24
+
+2021-11-24T07:35:56+00:00 CRITICAL Uncaught Error: Call to a member function is_empty() on null in /home/vafh5947/public_html/wp-content/plugins/woocommerce/templates/cart/mini-cart.php:24
+Stack trace:
+#0 /home/vafh5947/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include()
+#1 /home/vafh5947/public_html/wp-content/plugins/woocommerce/includes/wc-template-functions.php(2215): wc_get_template('cart/mini-cart....', Array)
+#2 /home/vafh5947/public_html/wp-content/themes/ornaldo/inc/woo/functions.php(146): woocommerce_mini_cart()
+#3 /home/vafh5947/public_html/wp-includes/class-wp-hook.php(303): ftc_canvas_cart('')
+#4 /home/vafh5947/public_html/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#5 /home/vafh5947/public_html/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#6 /home/vafh5947/public_html/wp-includes/general-template.php(3031): do_action('wp_footer')
+#7 /home/vafh5947/public_html/wp-includes/blocks/legacy-widget.php(123): wp_footer()
+#8 /home/vafh5947/public_html/wp-includes/ in /home/vafh5947/public_html/wp-content/plugins/woocommerce/templates/cart/mini-cart.php on line 24
+
+2021-11-24T07:35:56+00:00 CRITICAL Uncaught Error: Call to a member function is_empty() on null in /home/vafh5947/public_html/wp-content/plugins/woocommerce/templates/cart/mini-cart.php:24
+Stack trace:
+#0 /home/vafh5947/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include()
+#1 /home/vafh5947/public_html/wp-content/plugins/woocommerce/includes/wc-template-functions.php(2215): wc_get_template('cart/mini-cart....', Array)
+#2 /home/vafh5947/public_html/wp-content/themes/ornaldo/inc/woo/functions.php(146): woocommerce_mini_cart()
+#3 /home/vafh5947/public_html/wp-includes/class-wp-hook.php(303): ftc_canvas_cart('')
+#4 /home/vafh5947/public_html/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#5 /home/vafh5947/public_html/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#6 /home/vafh5947/public_html/wp-includes/general-template.php(3031): do_action('wp_footer')
+#7 /home/vafh5947/public_html/wp-includes/blocks/legacy-widget.php(123): wp_footer()
+#8 /home/vafh5947/public_html/wp-includes/ in /home/vafh5947/public_html/wp-content/plugins/woocommerce/templates/cart/mini-cart.php on line 24
+
+2021-11-24T07:35:57+00:00 CRITICAL Uncaught Error: Call to a member function is_empty() on null in /home/vafh5947/public_html/wp-content/plugins/woocommerce/templates/cart/mini-cart.php:24
+Stack trace:
+#0 /home/vafh5947/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include()
+#1 /home/vafh5947/public_html/wp-content/plugins/woocommerce/includes/wc-template-functions.php(2215): wc_get_template('cart/mini-cart....', Array)
+#2 /home/vafh5947/public_html/wp-content/themes/ornaldo/inc/woo/functions.php(146): woocommerce_mini_cart()
+#3 /home/vafh5947/public_html/wp-includes/class-wp-hook.php(303): ftc_canvas_cart('')
+#4 /home/vafh5947/public_html/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#5 /home/vafh5947/public_html/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#6 /home/vafh5947/public_html/wp-includes/general-template.php(3031): do_action('wp_footer')
+#7 /home/vafh5947/public_html/wp-includes/blocks/legacy-widget.php(123): wp_footer()
+#8 /home/vafh5947/public_html/wp-includes/ in /home/vafh5947/public_html/wp-content/plugins/woocommerce/templates/cart/mini-cart.php on line 24
+
+2021-11-24T07:35:57+00:00 CRITICAL Uncaught Error: Call to a member function is_empty() on null in /home/vafh5947/public_html/wp-content/plugins/woocommerce/templates/cart/mini-cart.php:24
+Stack trace:
+#0 /home/vafh5947/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include()
+#1 /home/vafh5947/public_html/wp-content/plugins/woocommerce/includes/wc-template-functions.php(2215): wc_get_template('cart/mini-cart....', Array)
+#2 /home/vafh5947/public_html/wp-content/themes/ornaldo/inc/woo/functions.php(146): woocommerce_mini_cart()
+#3 /home/vafh5947/public_html/wp-includes/class-wp-hook.php(303): ftc_canvas_cart('')
+#4 /home/vafh5947/public_html/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#5 /home/vafh5947/public_html/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#6 /home/vafh5947/public_html/wp-includes/general-template.php(3031): do_action('wp_footer')
+#7 /home/vafh5947/public_html/wp-includes/blocks/legacy-widget.php(123): wp_footer()
+#8 /home/vafh5947/public_html/wp-includes/ in /home/vafh5947/public_html/wp-content/plugins/woocommerce/templates/cart/mini-cart.php on line 24
+
+2021-11-24T07:35:57+00:00 CRITICAL Uncaught Error: Call to a member function is_empty() on null in /home/vafh5947/public_html/wp-content/plugins/woocommerce/templates/cart/mini-cart.php:24
+Stack trace:
+#0 /home/vafh5947/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include()
+#1 /home/vafh5947/public_html/wp-content/plugins/woocommerce/includes/wc-template-functions.php(2215): wc_get_template('cart/mini-cart....', Array)
+#2 /home/vafh5947/public_html/wp-content/themes/ornaldo/inc/woo/functions.php(146): woocommerce_mini_cart()
+#3 /home/vafh5947/public_html/wp-includes/class-wp-hook.php(303): ftc_canvas_cart('')
+#4 /home/vafh5947/public_html/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#5 /home/vafh5947/public_html/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#6 /home/vafh5947/public_html/wp-includes/general-template.php(3031): do_action('wp_footer')
+#7 /home/vafh5947/public_html/wp-includes/blocks/legacy-widget.php(123): wp_footer()
+#8 /home/vafh5947/public_html/wp-includes/ in /home/vafh5947/public_html/wp-content/plugins/woocommerce/templates/cart/mini-cart.php on line 24
+
+2021-11-24T07:35:57+00:00 CRITICAL Uncaught Error: Call to a member function is_empty() on null in /home/vafh5947/public_html/wp-content/plugins/woocommerce/templates/cart/mini-cart.php:24
+Stack trace:
+#0 /home/vafh5947/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include()
+#1 /home/vafh5947/public_html/wp-content/plugins/woocommerce/includes/wc-template-functions.php(2215): wc_get_template('cart/mini-cart....', Array)
+#2 /home/vafh5947/public_html/wp-content/themes/ornaldo/inc/woo/functions.php(146): woocommerce_mini_cart()
+#3 /home/vafh5947/public_html/wp-includes/class-wp-hook.php(303): ftc_canvas_cart('')
+#4 /home/vafh5947/public_html/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#5 /home/vafh5947/public_html/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#6 /home/vafh5947/public_html/wp-includes/general-template.php(3031): do_action('wp_footer')
+#7 /home/vafh5947/public_html/wp-includes/blocks/legacy-widget.php(123): wp_footer()
+#8 /home/vafh5947/public_html/wp-includes/ in /home/vafh5947/public_html/wp-content/plugins/woocommerce/templates/cart/mini-cart.php on line 24
+
+2021-11-24T07:35:57+00:00 CRITICAL Uncaught Error: Call to a member function is_empty() on null in /home/vafh5947/public_html/wp-content/plugins/woocommerce/templates/cart/mini-cart.php:24
+Stack trace:
+#0 /home/vafh5947/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include()
+#1 /home/vafh5947/public_html/wp-content/plugins/woocommerce/includes/wc-template-functions.php(2215): wc_get_template('cart/mini-cart....', Array)
+#2 /home/vafh5947/public_html/wp-content/themes/ornaldo/inc/woo/functions.php(146): woocommerce_mini_cart()
+#3 /home/vafh5947/public_html/wp-includes/class-wp-hook.php(303): ftc_canvas_cart('')
+#4 /home/vafh5947/public_html/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#5 /home/vafh5947/public_html/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#6 /home/vafh5947/public_html/wp-includes/general-template.php(3031): do_action('wp_footer')
+#7 /home/vafh5947/public_html/wp-includes/blocks/legacy-widget.php(123): wp_footer()
+#8 /home/vafh5947/public_html/wp-includes/ in /home/vafh5947/public_html/wp-content/plugins/woocommerce/templates/cart/mini-cart.php on line 24
+
+2021-11-24T07:35:58+00:00 CRITICAL Uncaught Error: Call to a member function is_empty() on null in /home/vafh5947/public_html/wp-content/plugins/woocommerce/templates/cart/mini-cart.php:24
+Stack trace:
+#0 /home/vafh5947/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include()
+#1 /home/vafh5947/public_html/wp-content/plugins/woocommerce/includes/wc-template-functions.php(2215): wc_get_template('cart/mini-cart....', Array)
+#2 /home/vafh5947/public_html/wp-content/themes/ornaldo/inc/woo/functions.php(146): woocommerce_mini_cart()
+#3 /home/vafh5947/public_html/wp-includes/class-wp-hook.php(303): ftc_canvas_cart('')
+#4 /home/vafh5947/public_html/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#5 /home/vafh5947/public_html/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#6 /home/vafh5947/public_html/wp-includes/general-template.php(3031): do_action('wp_footer')
+#7 /home/vafh5947/public_html/wp-includes/blocks/legacy-widget.php(123): wp_footer()
+#8 /home/vafh5947/public_html/wp-includes/ in /home/vafh5947/public_html/wp-content/plugins/woocommerce/templates/cart/mini-cart.php on line 24
+
+2021-11-24T07:36:00+00:00 CRITICAL Uncaught Error: Call to a member function is_empty() on null in /home/vafh5947/public_html/wp-content/plugins/woocommerce/templates/cart/mini-cart.php:24
+Stack trace:
+#0 /home/vafh5947/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include()
+#1 /home/vafh5947/public_html/wp-content/plugins/woocommerce/includes/wc-template-functions.php(2215): wc_get_template('cart/mini-cart....', Array)
+#2 /home/vafh5947/public_html/wp-content/themes/ornaldo/inc/woo/functions.php(146): woocommerce_mini_cart()
+#3 /home/vafh5947/public_html/wp-includes/class-wp-hook.php(303): ftc_canvas_cart('')
+#4 /home/vafh5947/public_html/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#5 /home/vafh5947/public_html/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#6 /home/vafh5947/public_html/wp-includes/general-template.php(3031): do_action('wp_footer')
+#7 /home/vafh5947/public_html/wp-includes/blocks/legacy-widget.php(123): wp_footer()
+#8 /home/vafh5947/public_html/wp-includes/ in /home/vafh5947/public_html/wp-content/plugins/woocommerce/templates/cart/mini-cart.php on line 24
+
+2021-11-24T07:36:01+00:00 CRITICAL Uncaught Error: Call to a member function is_empty() on null in /home/vafh5947/public_html/wp-content/plugins/woocommerce/templates/cart/mini-cart.php:24
+Stack trace:
+#0 /home/vafh5947/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include()
+#1 /home/vafh5947/public_html/wp-content/plugins/woocommerce/includes/wc-template-functions.php(2215): wc_get_template('cart/mini-cart....', Array)
+#2 /home/vafh5947/public_html/wp-content/themes/ornaldo/inc/woo/functions.php(146): woocommerce_mini_cart()
+#3 /home/vafh5947/public_html/wp-includes/class-wp-hook.php(303): ftc_canvas_cart('')
+#4 /home/vafh5947/public_html/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#5 /home/vafh5947/public_html/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#6 /home/vafh5947/public_html/wp-includes/general-template.php(3031): do_action('wp_footer')
+#7 /home/vafh5947/public_html/wp-includes/blocks/legacy-widget.php(123): wp_footer()
+#8 /home/vafh5947/public_html/wp-includes/ in /home/vafh5947/public_html/wp-content/plugins/woocommerce/templates/cart/mini-cart.php on line 24
+
+2021-11-24T07:36:01+00:00 CRITICAL Uncaught Error: Call to a member function is_empty() on null in /home/vafh5947/public_html/wp-content/plugins/woocommerce/templates/cart/mini-cart.php:24
+Stack trace:
+#0 /home/vafh5947/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include()
+#1 /home/vafh5947/public_html/wp-content/plugins/woocommerce/includes/wc-template-functions.php(2215): wc_get_template('cart/mini-cart....', Array)
+#2 /home/vafh5947/public_html/wp-content/themes/ornaldo/inc/woo/functions.php(146): woocommerce_mini_cart()
+#3 /home/vafh5947/public_html/wp-includes/class-wp-hook.php(303): ftc_canvas_cart('')
+#4 /home/vafh5947/public_html/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#5 /home/vafh5947/public_html/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#6 /home/vafh5947/public_html/wp-includes/general-template.php(3031): do_action('wp_footer')
+#7 /home/vafh5947/public_html/wp-includes/blocks/legacy-widget.php(123): wp_footer()
+#8 /home/vafh5947/public_html/wp-includes/ in /home/vafh5947/public_html/wp-content/plugins/woocommerce/templates/cart/mini-cart.php on line 24
+
+2021-11-24T07:36:01+00:00 CRITICAL Uncaught Error: Call to a member function is_empty() on null in /home/vafh5947/public_html/wp-content/plugins/woocommerce/templates/cart/mini-cart.php:24
+Stack trace:
+#0 /home/vafh5947/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include()
+#1 /home/vafh5947/public_html/wp-content/plugins/woocommerce/includes/wc-template-functions.php(2215): wc_get_template('cart/mini-cart....', Array)
+#2 /home/vafh5947/public_html/wp-content/themes/ornaldo/inc/woo/functions.php(146): woocommerce_mini_cart()
+#3 /home/vafh5947/public_html/wp-includes/class-wp-hook.php(303): ftc_canvas_cart('')
+#4 /home/vafh5947/public_html/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#5 /home/vafh5947/public_html/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#6 /home/vafh5947/public_html/wp-includes/general-template.php(3031): do_action('wp_footer')
+#7 /home/vafh5947/public_html/wp-includes/blocks/legacy-widget.php(123): wp_footer()
+#8 /home/vafh5947/public_html/wp-includes/ in /home/vafh5947/public_html/wp-content/plugins/woocommerce/templates/cart/mini-cart.php on line 24
+
+2021-11-24T07:36:02+00:00 CRITICAL Uncaught Error: Call to a member function is_empty() on null in /home/vafh5947/public_html/wp-content/plugins/woocommerce/templates/cart/mini-cart.php:24
+Stack trace:
+#0 /home/vafh5947/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include()
+#1 /home/vafh5947/public_html/wp-content/plugins/woocommerce/includes/wc-template-functions.php(2215): wc_get_template('cart/mini-cart....', Array)
+#2 /home/vafh5947/public_html/wp-content/themes/ornaldo/inc/woo/functions.php(146): woocommerce_mini_cart()
+#3 /home/vafh5947/public_html/wp-includes/class-wp-hook.php(303): ftc_canvas_cart('')
+#4 /home/vafh5947/public_html/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#5 /home/vafh5947/public_html/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#6 /home/vafh5947/public_html/wp-includes/general-template.php(3031): do_action('wp_footer')
+#7 /home/vafh5947/public_html/wp-includes/blocks/legacy-widget.php(123): wp_footer()
+#8 /home/vafh5947/public_html/wp-includes/ in /home/vafh5947/public_html/wp-content/plugins/woocommerce/templates/cart/mini-cart.php on line 24
+
+2021-11-24T07:36:02+00:00 CRITICAL Uncaught Error: Call to a member function is_empty() on null in /home/vafh5947/public_html/wp-content/plugins/woocommerce/templates/cart/mini-cart.php:24
+Stack trace:
+#0 /home/vafh5947/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include()
+#1 /home/vafh5947/public_html/wp-content/plugins/woocommerce/includes/wc-template-functions.php(2215): wc_get_template('cart/mini-cart....', Array)
+#2 /home/vafh5947/public_html/wp-content/themes/ornaldo/inc/woo/functions.php(146): woocommerce_mini_cart()
+#3 /home/vafh5947/public_html/wp-includes/class-wp-hook.php(303): ftc_canvas_cart('')
+#4 /home/vafh5947/public_html/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#5 /home/vafh5947/public_html/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#6 /home/vafh5947/public_html/wp-includes/general-template.php(3031): do_action('wp_footer')
+#7 /home/vafh5947/public_html/wp-includes/blocks/legacy-widget.php(123): wp_footer()
+#8 /home/vafh5947/public_html/wp-includes/ in /home/vafh5947/public_html/wp-content/plugins/woocommerce/templates/cart/mini-cart.php on line 24
+
+2021-11-24T07:36:03+00:00 CRITICAL Uncaught Error: Call to a member function is_empty() on null in /home/vafh5947/public_html/wp-content/plugins/woocommerce/templates/cart/mini-cart.php:24
+Stack trace:
+#0 /home/vafh5947/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include()
+#1 /home/vafh5947/public_html/wp-content/plugins/woocommerce/includes/wc-template-functions.php(2215): wc_get_template('cart/mini-cart....', Array)
+#2 /home/vafh5947/public_html/wp-content/themes/ornaldo/inc/woo/functions.php(146): woocommerce_mini_cart()
+#3 /home/vafh5947/public_html/wp-includes/class-wp-hook.php(303): ftc_canvas_cart('')
+#4 /home/vafh5947/public_html/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#5 /home/vafh5947/public_html/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#6 /home/vafh5947/public_html/wp-includes/general-template.php(3031): do_action('wp_footer')
+#7 /home/vafh5947/public_html/wp-includes/blocks/legacy-widget.php(123): wp_footer()
+#8 /home/vafh5947/public_html/wp-includes/ in /home/vafh5947/public_html/wp-content/plugins/woocommerce/templates/cart/mini-cart.php on line 24
+
+2021-11-24T07:36:03+00:00 CRITICAL Uncaught Error: Call to a member function is_empty() on null in /home/vafh5947/public_html/wp-content/plugins/woocommerce/templates/cart/mini-cart.php:24
+Stack trace:
+#0 /home/vafh5947/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include()
+#1 /home/vafh5947/public_html/wp-content/plugins/woocommerce/includes/wc-template-functions.php(2215): wc_get_template('cart/mini-cart....', Array)
+#2 /home/vafh5947/public_html/wp-content/themes/ornaldo/inc/woo/functions.php(146): woocommerce_mini_cart()
+#3 /home/vafh5947/public_html/wp-includes/class-wp-hook.php(303): ftc_canvas_cart('')
+#4 /home/vafh5947/public_html/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#5 /home/vafh5947/public_html/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#6 /home/vafh5947/public_html/wp-includes/general-template.php(3031): do_action('wp_footer')
+#7 /home/vafh5947/public_html/wp-includes/blocks/legacy-widget.php(123): wp_footer()
+#8 /home/vafh5947/public_html/wp-includes/ in /home/vafh5947/public_html/wp-content/plugins/woocommerce/templates/cart/mini-cart.php on line 24
+
+2021-11-24T07:36:04+00:00 CRITICAL Uncaught Error: Call to a member function is_empty() on null in /home/vafh5947/public_html/wp-content/plugins/woocommerce/templates/cart/mini-cart.php:24
+Stack trace:
+#0 /home/vafh5947/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include()
+#1 /home/vafh5947/public_html/wp-content/plugins/woocommerce/includes/wc-template-functions.php(2215): wc_get_template('cart/mini-cart....', Array)
+#2 /home/vafh5947/public_html/wp-content/themes/ornaldo/inc/woo/functions.php(146): woocommerce_mini_cart()
+#3 /home/vafh5947/public_html/wp-includes/class-wp-hook.php(303): ftc_canvas_cart('')
+#4 /home/vafh5947/public_html/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#5 /home/vafh5947/public_html/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#6 /home/vafh5947/public_html/wp-includes/general-template.php(3031): do_action('wp_footer')
+#7 /home/vafh5947/public_html/wp-includes/blocks/legacy-widget.php(123): wp_footer()
+#8 /home/vafh5947/public_html/wp-includes/ in /home/vafh5947/public_html/wp-content/plugins/woocommerce/templates/cart/mini-cart.php on line 24
+
+2021-11-24T07:36:04+00:00 CRITICAL Uncaught Error: Call to a member function is_empty() on null in /home/vafh5947/public_html/wp-content/plugins/woocommerce/templates/cart/mini-cart.php:24
+Stack trace:
+#0 /home/vafh5947/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include()
+#1 /home/vafh5947/public_html/wp-content/plugins/woocommerce/includes/wc-template-functions.php(2215): wc_get_template('cart/mini-cart....', Array)
+#2 /home/vafh5947/public_html/wp-content/themes/ornaldo/inc/woo/functions.php(146): woocommerce_mini_cart()
+#3 /home/vafh5947/public_html/wp-includes/class-wp-hook.php(303): ftc_canvas_cart('')
+#4 /home/vafh5947/public_html/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#5 /home/vafh5947/public_html/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#6 /home/vafh5947/public_html/wp-includes/general-template.php(3031): do_action('wp_footer')
+#7 /home/vafh5947/public_html/wp-includes/blocks/legacy-widget.php(123): wp_footer()
+#8 /home/vafh5947/public_html/wp-includes/ in /home/vafh5947/public_html/wp-content/plugins/woocommerce/templates/cart/mini-cart.php on line 24
+
+2021-11-24T07:36:04+00:00 CRITICAL Uncaught Error: Call to a member function is_empty() on null in /home/vafh5947/public_html/wp-content/plugins/woocommerce/templates/cart/mini-cart.php:24
+Stack trace:
+#0 /home/vafh5947/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include()
+#1 /home/vafh5947/public_html/wp-content/plugins/woocommerce/includes/wc-template-functions.php(2215): wc_get_template('cart/mini-cart....', Array)
+#2 /home/vafh5947/public_html/wp-content/themes/ornaldo/inc/woo/functions.php(146): woocommerce_mini_cart()
+#3 /home/vafh5947/public_html/wp-includes/class-wp-hook.php(303): ftc_canvas_cart('')
+#4 /home/vafh5947/public_html/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#5 /home/vafh5947/public_html/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#6 /home/vafh5947/public_html/wp-includes/general-template.php(3031): do_action('wp_footer')
+#7 /home/vafh5947/public_html/wp-includes/blocks/legacy-widget.php(123): wp_footer()
+#8 /home/vafh5947/public_html/wp-includes/ in /home/vafh5947/public_html/wp-content/plugins/woocommerce/templates/cart/mini-cart.php on line 24
+
+2021-11-24T07:36:04+00:00 CRITICAL Uncaught Error: Call to a member function is_empty() on null in /home/vafh5947/public_html/wp-content/plugins/woocommerce/templates/cart/mini-cart.php:24
+Stack trace:
+#0 /home/vafh5947/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include()
+#1 /home/vafh5947/public_html/wp-content/plugins/woocommerce/includes/wc-template-functions.php(2215): wc_get_template('cart/mini-cart....', Array)
+#2 /home/vafh5947/public_html/wp-content/themes/ornaldo/inc/woo/functions.php(146): woocommerce_mini_cart()
+#3 /home/vafh5947/public_html/wp-includes/class-wp-hook.php(303): ftc_canvas_cart('')
+#4 /home/vafh5947/public_html/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#5 /home/vafh5947/public_html/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#6 /home/vafh5947/public_html/wp-includes/general-template.php(3031): do_action('wp_footer')
+#7 /home/vafh5947/public_html/wp-includes/blocks/legacy-widget.php(123): wp_footer()
+#8 /home/vafh5947/public_html/wp-includes/ in /home/vafh5947/public_html/wp-content/plugins/woocommerce/templates/cart/mini-cart.php on line 24
+
+2021-11-24T07:36:04+00:00 CRITICAL Uncaught Error: Call to a member function is_empty() on null in /home/vafh5947/public_html/wp-content/plugins/woocommerce/templates/cart/mini-cart.php:24
+Stack trace:
+#0 /home/vafh5947/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include()
+#1 /home/vafh5947/public_html/wp-content/plugins/woocommerce/includes/wc-template-functions.php(2215): wc_get_template('cart/mini-cart....', Array)
+#2 /home/vafh5947/public_html/wp-content/themes/ornaldo/inc/woo/functions.php(146): woocommerce_mini_cart()
+#3 /home/vafh5947/public_html/wp-includes/class-wp-hook.php(303): ftc_canvas_cart('')
+#4 /home/vafh5947/public_html/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#5 /home/vafh5947/public_html/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#6 /home/vafh5947/public_html/wp-includes/general-template.php(3031): do_action('wp_footer')
+#7 /home/vafh5947/public_html/wp-includes/blocks/legacy-widget.php(123): wp_footer()
+#8 /home/vafh5947/public_html/wp-includes/ in /home/vafh5947/public_html/wp-content/plugins/woocommerce/templates/cart/mini-cart.php on line 24
+
+2021-11-24T07:36:05+00:00 CRITICAL Uncaught Error: Call to a member function is_empty() on null in /home/vafh5947/public_html/wp-content/plugins/woocommerce/templates/cart/mini-cart.php:24
+Stack trace:
+#0 /home/vafh5947/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include()
+#1 /home/vafh5947/public_html/wp-content/plugins/woocommerce/includes/wc-template-functions.php(2215): wc_get_template('cart/mini-cart....', Array)
+#2 /home/vafh5947/public_html/wp-content/themes/ornaldo/inc/woo/functions.php(146): woocommerce_mini_cart()
+#3 /home/vafh5947/public_html/wp-includes/class-wp-hook.php(303): ftc_canvas_cart('')
+#4 /home/vafh5947/public_html/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#5 /home/vafh5947/public_html/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#6 /home/vafh5947/public_html/wp-includes/general-template.php(3031): do_action('wp_footer')
+#7 /home/vafh5947/public_html/wp-includes/blocks/legacy-widget.php(123): wp_footer()
+#8 /home/vafh5947/public_html/wp-includes/ in /home/vafh5947/public_html/wp-content/plugins/woocommerce/templates/cart/mini-cart.php on line 24
+
+2021-11-24T07:36:05+00:00 CRITICAL Uncaught Error: Call to a member function is_empty() on null in /home/vafh5947/public_html/wp-content/plugins/woocommerce/templates/cart/mini-cart.php:24
+Stack trace:
+#0 /home/vafh5947/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include()
+#1 /home/vafh5947/public_html/wp-content/plugins/woocommerce/includes/wc-template-functions.php(2215): wc_get_template('cart/mini-cart....', Array)
+#2 /home/vafh5947/public_html/wp-content/themes/ornaldo/inc/woo/functions.php(146): woocommerce_mini_cart()
+#3 /home/vafh5947/public_html/wp-includes/class-wp-hook.php(303): ftc_canvas_cart('')
+#4 /home/vafh5947/public_html/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#5 /home/vafh5947/public_html/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#6 /home/vafh5947/public_html/wp-includes/general-template.php(3031): do_action('wp_footer')
+#7 /home/vafh5947/public_html/wp-includes/blocks/legacy-widget.php(123): wp_footer()
+#8 /home/vafh5947/public_html/wp-includes/ in /home/vafh5947/public_html/wp-content/plugins/woocommerce/templates/cart/mini-cart.php on line 24
+
+2021-11-24T07:36:05+00:00 CRITICAL Uncaught Error: Call to a member function is_empty() on null in /home/vafh5947/public_html/wp-content/plugins/woocommerce/templates/cart/mini-cart.php:24
+Stack trace:
+#0 /home/vafh5947/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include()
+#1 /home/vafh5947/public_html/wp-content/plugins/woocommerce/includes/wc-template-functions.php(2215): wc_get_template('cart/mini-cart....', Array)
+#2 /home/vafh5947/public_html/wp-content/themes/ornaldo/inc/woo/functions.php(146): woocommerce_mini_cart()
+#3 /home/vafh5947/public_html/wp-includes/class-wp-hook.php(303): ftc_canvas_cart('')
+#4 /home/vafh5947/public_html/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#5 /home/vafh5947/public_html/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#6 /home/vafh5947/public_html/wp-includes/general-template.php(3031): do_action('wp_footer')
+#7 /home/vafh5947/public_html/wp-includes/blocks/legacy-widget.php(123): wp_footer()
+#8 /home/vafh5947/public_html/wp-includes/ in /home/vafh5947/public_html/wp-content/plugins/woocommerce/templates/cart/mini-cart.php on line 24
+
+2021-11-24T09:18:24+00:00 CRITICAL Uncaught Error: Call to a member function is_empty() on null in /home/vafh5947/public_html/wp-content/plugins/woocommerce/templates/cart/mini-cart.php:24
+Stack trace:
+#0 /home/vafh5947/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include()
+#1 /home/vafh5947/public_html/wp-content/plugins/woocommerce/includes/wc-template-functions.php(2215): wc_get_template('cart/mini-cart....', Array)
+#2 /home/vafh5947/public_html/wp-content/themes/ornaldo/inc/woo/functions.php(146): woocommerce_mini_cart()
+#3 /home/vafh5947/public_html/wp-includes/class-wp-hook.php(303): ftc_canvas_cart('')
+#4 /home/vafh5947/public_html/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#5 /home/vafh5947/public_html/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#6 /home/vafh5947/public_html/wp-includes/general-template.php(3031): do_action('wp_footer')
+#7 /home/vafh5947/public_html/wp-includes/blocks/legacy-widget.php(123): wp_footer()
+#8 /home/vafh5947/public_html/wp-includes/ in /home/vafh5947/public_html/wp-content/plugins/woocommerce/templates/cart/mini-cart.php on line 24
+
+2021-11-24T09:18:26+00:00 CRITICAL Uncaught Error: Call to a member function is_empty() on null in /home/vafh5947/public_html/wp-content/plugins/woocommerce/templates/cart/mini-cart.php:24
+Stack trace:
+#0 /home/vafh5947/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include()
+#1 /home/vafh5947/public_html/wp-content/plugins/woocommerce/includes/wc-template-functions.php(2215): wc_get_template('cart/mini-cart....', Array)
+#2 /home/vafh5947/public_html/wp-content/themes/ornaldo/inc/woo/functions.php(146): woocommerce_mini_cart()
+#3 /home/vafh5947/public_html/wp-includes/class-wp-hook.php(303): ftc_canvas_cart('')
+#4 /home/vafh5947/public_html/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#5 /home/vafh5947/public_html/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#6 /home/vafh5947/public_html/wp-includes/general-template.php(3031): do_action('wp_footer')
+#7 /home/vafh5947/public_html/wp-includes/blocks/legacy-widget.php(123): wp_footer()
+#8 /home/vafh5947/public_html/wp-includes/ in /home/vafh5947/public_html/wp-content/plugins/woocommerce/templates/cart/mini-cart.php on line 24
+
+2021-11-24T09:18:26+00:00 CRITICAL Uncaught Error: Call to a member function is_empty() on null in /home/vafh5947/public_html/wp-content/plugins/woocommerce/templates/cart/mini-cart.php:24
+Stack trace:
+#0 /home/vafh5947/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include()
+#1 /home/vafh5947/public_html/wp-content/plugins/woocommerce/includes/wc-template-functions.php(2215): wc_get_template('cart/mini-cart....', Array)
+#2 /home/vafh5947/public_html/wp-content/themes/ornaldo/inc/woo/functions.php(146): woocommerce_mini_cart()
+#3 /home/vafh5947/public_html/wp-includes/class-wp-hook.php(303): ftc_canvas_cart('')
+#4 /home/vafh5947/public_html/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#5 /home/vafh5947/public_html/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#6 /home/vafh5947/public_html/wp-includes/general-template.php(3031): do_action('wp_footer')
+#7 /home/vafh5947/public_html/wp-includes/blocks/legacy-widget.php(123): wp_footer()
+#8 /home/vafh5947/public_html/wp-includes/ in /home/vafh5947/public_html/wp-content/plugins/woocommerce/templates/cart/mini-cart.php on line 24
+
+2021-11-24T09:18:27+00:00 CRITICAL Uncaught Error: Call to a member function is_empty() on null in /home/vafh5947/public_html/wp-content/plugins/woocommerce/templates/cart/mini-cart.php:24
+Stack trace:
+#0 /home/vafh5947/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include()
+#1 /home/vafh5947/public_html/wp-content/plugins/woocommerce/includes/wc-template-functions.php(2215): wc_get_template('cart/mini-cart....', Array)
+#2 /home/vafh5947/public_html/wp-content/themes/ornaldo/inc/woo/functions.php(146): woocommerce_mini_cart()
+#3 /home/vafh5947/public_html/wp-includes/class-wp-hook.php(303): ftc_canvas_cart('')
+#4 /home/vafh5947/public_html/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#5 /home/vafh5947/public_html/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#6 /home/vafh5947/public_html/wp-includes/general-template.php(3031): do_action('wp_footer')
+#7 /home/vafh5947/public_html/wp-includes/blocks/legacy-widget.php(123): wp_footer()
+#8 /home/vafh5947/public_html/wp-includes/ in /home/vafh5947/public_html/wp-content/plugins/woocommerce/templates/cart/mini-cart.php on line 24
+
+2021-11-24T09:18:27+00:00 CRITICAL Uncaught Error: Call to a member function is_empty() on null in /home/vafh5947/public_html/wp-content/plugins/woocommerce/templates/cart/mini-cart.php:24
+Stack trace:
+#0 /home/vafh5947/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include()
+#1 /home/vafh5947/public_html/wp-content/plugins/woocommerce/includes/wc-template-functions.php(2215): wc_get_template('cart/mini-cart....', Array)
+#2 /home/vafh5947/public_html/wp-content/themes/ornaldo/inc/woo/functions.php(146): woocommerce_mini_cart()
+#3 /home/vafh5947/public_html/wp-includes/class-wp-hook.php(303): ftc_canvas_cart('')
+#4 /home/vafh5947/public_html/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#5 /home/vafh5947/public_html/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#6 /home/vafh5947/public_html/wp-includes/general-template.php(3031): do_action('wp_footer')
+#7 /home/vafh5947/public_html/wp-includes/blocks/legacy-widget.php(123): wp_footer()
+#8 /home/vafh5947/public_html/wp-includes/ in /home/vafh5947/public_html/wp-content/plugins/woocommerce/templates/cart/mini-cart.php on line 24
+
+2021-11-24T09:18:28+00:00 CRITICAL Uncaught Error: Call to a member function is_empty() on null in /home/vafh5947/public_html/wp-content/plugins/woocommerce/templates/cart/mini-cart.php:24
+Stack trace:
+#0 /home/vafh5947/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include()
+#1 /home/vafh5947/public_html/wp-content/plugins/woocommerce/includes/wc-template-functions.php(2215): wc_get_template('cart/mini-cart....', Array)
+#2 /home/vafh5947/public_html/wp-content/themes/ornaldo/inc/woo/functions.php(146): woocommerce_mini_cart()
+#3 /home/vafh5947/public_html/wp-includes/class-wp-hook.php(303): ftc_canvas_cart('')
+#4 /home/vafh5947/public_html/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#5 /home/vafh5947/public_html/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#6 /home/vafh5947/public_html/wp-includes/general-template.php(3031): do_action('wp_footer')
+#7 /home/vafh5947/public_html/wp-includes/blocks/legacy-widget.php(123): wp_footer()
+#8 /home/vafh5947/public_html/wp-includes/ in /home/vafh5947/public_html/wp-content/plugins/woocommerce/templates/cart/mini-cart.php on line 24
+
+2021-11-24T09:18:28+00:00 CRITICAL Uncaught Error: Call to a member function is_empty() on null in /home/vafh5947/public_html/wp-content/plugins/woocommerce/templates/cart/mini-cart.php:24
+Stack trace:
+#0 /home/vafh5947/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include()
+#1 /home/vafh5947/public_html/wp-content/plugins/woocommerce/includes/wc-template-functions.php(2215): wc_get_template('cart/mini-cart....', Array)
+#2 /home/vafh5947/public_html/wp-content/themes/ornaldo/inc/woo/functions.php(146): woocommerce_mini_cart()
+#3 /home/vafh5947/public_html/wp-includes/class-wp-hook.php(303): ftc_canvas_cart('')
+#4 /home/vafh5947/public_html/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#5 /home/vafh5947/public_html/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#6 /home/vafh5947/public_html/wp-includes/general-template.php(3031): do_action('wp_footer')
+#7 /home/vafh5947/public_html/wp-includes/blocks/legacy-widget.php(123): wp_footer()
+#8 /home/vafh5947/public_html/wp-includes/ in /home/vafh5947/public_html/wp-content/plugins/woocommerce/templates/cart/mini-cart.php on line 24
+
+2021-11-24T09:18:28+00:00 CRITICAL Uncaught Error: Call to a member function is_empty() on null in /home/vafh5947/public_html/wp-content/plugins/woocommerce/templates/cart/mini-cart.php:24
+Stack trace:
+#0 /home/vafh5947/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include()
+#1 /home/vafh5947/public_html/wp-content/plugins/woocommerce/includes/wc-template-functions.php(2215): wc_get_template('cart/mini-cart....', Array)
+#2 /home/vafh5947/public_html/wp-content/themes/ornaldo/inc/woo/functions.php(146): woocommerce_mini_cart()
+#3 /home/vafh5947/public_html/wp-includes/class-wp-hook.php(303): ftc_canvas_cart('')
+#4 /home/vafh5947/public_html/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#5 /home/vafh5947/public_html/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#6 /home/vafh5947/public_html/wp-includes/general-template.php(3031): do_action('wp_footer')
+#7 /home/vafh5947/public_html/wp-includes/blocks/legacy-widget.php(123): wp_footer()
+#8 /home/vafh5947/public_html/wp-includes/ in /home/vafh5947/public_html/wp-content/plugins/woocommerce/templates/cart/mini-cart.php on line 24
+
+2021-11-24T09:18:28+00:00 CRITICAL Uncaught Error: Call to a member function is_empty() on null in /home/vafh5947/public_html/wp-content/plugins/woocommerce/templates/cart/mini-cart.php:24
+Stack trace:
+#0 /home/vafh5947/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include()
+#1 /home/vafh5947/public_html/wp-content/plugins/woocommerce/includes/wc-template-functions.php(2215): wc_get_template('cart/mini-cart....', Array)
+#2 /home/vafh5947/public_html/wp-content/themes/ornaldo/inc/woo/functions.php(146): woocommerce_mini_cart()
+#3 /home/vafh5947/public_html/wp-includes/class-wp-hook.php(303): ftc_canvas_cart('')
+#4 /home/vafh5947/public_html/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#5 /home/vafh5947/public_html/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#6 /home/vafh5947/public_html/wp-includes/general-template.php(3031): do_action('wp_footer')
+#7 /home/vafh5947/public_html/wp-includes/blocks/legacy-widget.php(123): wp_footer()
+#8 /home/vafh5947/public_html/wp-includes/ in /home/vafh5947/public_html/wp-content/plugins/woocommerce/templates/cart/mini-cart.php on line 24
+
+2021-11-24T09:18:31+00:00 CRITICAL Uncaught Error: Call to a member function is_empty() on null in /home/vafh5947/public_html/wp-content/plugins/woocommerce/templates/cart/mini-cart.php:24
+Stack trace:
+#0 /home/vafh5947/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include()
+#1 /home/vafh5947/public_html/wp-content/plugins/woocommerce/includes/wc-template-functions.php(2215): wc_get_template('cart/mini-cart....', Array)
+#2 /home/vafh5947/public_html/wp-content/themes/ornaldo/inc/woo/functions.php(146): woocommerce_mini_cart()
+#3 /home/vafh5947/public_html/wp-includes/class-wp-hook.php(303): ftc_canvas_cart('')
+#4 /home/vafh5947/public_html/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#5 /home/vafh5947/public_html/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#6 /home/vafh5947/public_html/wp-includes/general-template.php(3031): do_action('wp_footer')
+#7 /home/vafh5947/public_html/wp-includes/blocks/legacy-widget.php(123): wp_footer()
+#8 /home/vafh5947/public_html/wp-includes/ in /home/vafh5947/public_html/wp-content/plugins/woocommerce/templates/cart/mini-cart.php on line 24
+
+2021-11-24T09:18:31+00:00 CRITICAL Uncaught Error: Call to a member function is_empty() on null in /home/vafh5947/public_html/wp-content/plugins/woocommerce/templates/cart/mini-cart.php:24
+Stack trace:
+#0 /home/vafh5947/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include()
+#1 /home/vafh5947/public_html/wp-content/plugins/woocommerce/includes/wc-template-functions.php(2215): wc_get_template('cart/mini-cart....', Array)
+#2 /home/vafh5947/public_html/wp-content/themes/ornaldo/inc/woo/functions.php(146): woocommerce_mini_cart()
+#3 /home/vafh5947/public_html/wp-includes/class-wp-hook.php(303): ftc_canvas_cart('')
+#4 /home/vafh5947/public_html/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#5 /home/vafh5947/public_html/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#6 /home/vafh5947/public_html/wp-includes/general-template.php(3031): do_action('wp_footer')
+#7 /home/vafh5947/public_html/wp-includes/blocks/legacy-widget.php(123): wp_footer()
+#8 /home/vafh5947/public_html/wp-includes/ in /home/vafh5947/public_html/wp-content/plugins/woocommerce/templates/cart/mini-cart.php on line 24
+
+2021-11-24T09:18:31+00:00 CRITICAL Uncaught Error: Call to a member function is_empty() on null in /home/vafh5947/public_html/wp-content/plugins/woocommerce/templates/cart/mini-cart.php:24
+Stack trace:
+#0 /home/vafh5947/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include()
+#1 /home/vafh5947/public_html/wp-content/plugins/woocommerce/includes/wc-template-functions.php(2215): wc_get_template('cart/mini-cart....', Array)
+#2 /home/vafh5947/public_html/wp-content/themes/ornaldo/inc/woo/functions.php(146): woocommerce_mini_cart()
+#3 /home/vafh5947/public_html/wp-includes/class-wp-hook.php(303): ftc_canvas_cart('')
+#4 /home/vafh5947/public_html/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#5 /home/vafh5947/public_html/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#6 /home/vafh5947/public_html/wp-includes/general-template.php(3031): do_action('wp_footer')
+#7 /home/vafh5947/public_html/wp-includes/blocks/legacy-widget.php(123): wp_footer()
+#8 /home/vafh5947/public_html/wp-includes/ in /home/vafh5947/public_html/wp-content/plugins/woocommerce/templates/cart/mini-cart.php on line 24
+
+2021-11-24T09:18:31+00:00 CRITICAL Uncaught Error: Call to a member function is_empty() on null in /home/vafh5947/public_html/wp-content/plugins/woocommerce/templates/cart/mini-cart.php:24
+Stack trace:
+#0 /home/vafh5947/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include()
+#1 /home/vafh5947/public_html/wp-content/plugins/woocommerce/includes/wc-template-functions.php(2215): wc_get_template('cart/mini-cart....', Array)
+#2 /home/vafh5947/public_html/wp-content/themes/ornaldo/inc/woo/functions.php(146): woocommerce_mini_cart()
+#3 /home/vafh5947/public_html/wp-includes/class-wp-hook.php(303): ftc_canvas_cart('')
+#4 /home/vafh5947/public_html/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#5 /home/vafh5947/public_html/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#6 /home/vafh5947/public_html/wp-includes/general-template.php(3031): do_action('wp_footer')
+#7 /home/vafh5947/public_html/wp-includes/blocks/legacy-widget.php(123): wp_footer()
+#8 /home/vafh5947/public_html/wp-includes/ in /home/vafh5947/public_html/wp-content/plugins/woocommerce/templates/cart/mini-cart.php on line 24
+
+2021-11-24T09:18:32+00:00 CRITICAL Uncaught Error: Call to a member function is_empty() on null in /home/vafh5947/public_html/wp-content/plugins/woocommerce/templates/cart/mini-cart.php:24
+Stack trace:
+#0 /home/vafh5947/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include()
+#1 /home/vafh5947/public_html/wp-content/plugins/woocommerce/includes/wc-template-functions.php(2215): wc_get_template('cart/mini-cart....', Array)
+#2 /home/vafh5947/public_html/wp-content/themes/ornaldo/inc/woo/functions.php(146): woocommerce_mini_cart()
+#3 /home/vafh5947/public_html/wp-includes/class-wp-hook.php(303): ftc_canvas_cart('')
+#4 /home/vafh5947/public_html/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#5 /home/vafh5947/public_html/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#6 /home/vafh5947/public_html/wp-includes/general-template.php(3031): do_action('wp_footer')
+#7 /home/vafh5947/public_html/wp-includes/blocks/legacy-widget.php(123): wp_footer()
+#8 /home/vafh5947/public_html/wp-includes/ in /home/vafh5947/public_html/wp-content/plugins/woocommerce/templates/cart/mini-cart.php on line 24
+
+2021-11-24T09:18:32+00:00 CRITICAL Uncaught Error: Call to a member function is_empty() on null in /home/vafh5947/public_html/wp-content/plugins/woocommerce/templates/cart/mini-cart.php:24
+Stack trace:
+#0 /home/vafh5947/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include()
+#1 /home/vafh5947/public_html/wp-content/plugins/woocommerce/includes/wc-template-functions.php(2215): wc_get_template('cart/mini-cart....', Array)
+#2 /home/vafh5947/public_html/wp-content/themes/ornaldo/inc/woo/functions.php(146): woocommerce_mini_cart()
+#3 /home/vafh5947/public_html/wp-includes/class-wp-hook.php(303): ftc_canvas_cart('')
+#4 /home/vafh5947/public_html/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#5 /home/vafh5947/public_html/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#6 /home/vafh5947/public_html/wp-includes/general-template.php(3031): do_action('wp_footer')
+#7 /home/vafh5947/public_html/wp-includes/blocks/legacy-widget.php(123): wp_footer()
+#8 /home/vafh5947/public_html/wp-includes/ in /home/vafh5947/public_html/wp-content/plugins/woocommerce/templates/cart/mini-cart.php on line 24
+
+2021-11-24T09:18:33+00:00 CRITICAL Uncaught Error: Call to a member function is_empty() on null in /home/vafh5947/public_html/wp-content/plugins/woocommerce/templates/cart/mini-cart.php:24
+Stack trace:
+#0 /home/vafh5947/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include()
+#1 /home/vafh5947/public_html/wp-content/plugins/woocommerce/includes/wc-template-functions.php(2215): wc_get_template('cart/mini-cart....', Array)
+#2 /home/vafh5947/public_html/wp-content/themes/ornaldo/inc/woo/functions.php(146): woocommerce_mini_cart()
+#3 /home/vafh5947/public_html/wp-includes/class-wp-hook.php(303): ftc_canvas_cart('')
+#4 /home/vafh5947/public_html/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#5 /home/vafh5947/public_html/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#6 /home/vafh5947/public_html/wp-includes/general-template.php(3031): do_action('wp_footer')
+#7 /home/vafh5947/public_html/wp-includes/blocks/legacy-widget.php(123): wp_footer()
+#8 /home/vafh5947/public_html/wp-includes/ in /home/vafh5947/public_html/wp-content/plugins/woocommerce/templates/cart/mini-cart.php on line 24
+
+2021-11-24T09:18:33+00:00 CRITICAL Uncaught Error: Call to a member function is_empty() on null in /home/vafh5947/public_html/wp-content/plugins/woocommerce/templates/cart/mini-cart.php:24
+Stack trace:
+#0 /home/vafh5947/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include()
+#1 /home/vafh5947/public_html/wp-content/plugins/woocommerce/includes/wc-template-functions.php(2215): wc_get_template('cart/mini-cart....', Array)
+#2 /home/vafh5947/public_html/wp-content/themes/ornaldo/inc/woo/functions.php(146): woocommerce_mini_cart()
+#3 /home/vafh5947/public_html/wp-includes/class-wp-hook.php(303): ftc_canvas_cart('')
+#4 /home/vafh5947/public_html/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#5 /home/vafh5947/public_html/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#6 /home/vafh5947/public_html/wp-includes/general-template.php(3031): do_action('wp_footer')
+#7 /home/vafh5947/public_html/wp-includes/blocks/legacy-widget.php(123): wp_footer()
+#8 /home/vafh5947/public_html/wp-includes/ in /home/vafh5947/public_html/wp-content/plugins/woocommerce/templates/cart/mini-cart.php on line 24
+
+2021-11-24T09:18:34+00:00 CRITICAL Uncaught Error: Call to a member function is_empty() on null in /home/vafh5947/public_html/wp-content/plugins/woocommerce/templates/cart/mini-cart.php:24
+Stack trace:
+#0 /home/vafh5947/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include()
+#1 /home/vafh5947/public_html/wp-content/plugins/woocommerce/includes/wc-template-functions.php(2215): wc_get_template('cart/mini-cart....', Array)
+#2 /home/vafh5947/public_html/wp-content/themes/ornaldo/inc/woo/functions.php(146): woocommerce_mini_cart()
+#3 /home/vafh5947/public_html/wp-includes/class-wp-hook.php(303): ftc_canvas_cart('')
+#4 /home/vafh5947/public_html/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#5 /home/vafh5947/public_html/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#6 /home/vafh5947/public_html/wp-includes/general-template.php(3031): do_action('wp_footer')
+#7 /home/vafh5947/public_html/wp-includes/blocks/legacy-widget.php(123): wp_footer()
+#8 /home/vafh5947/public_html/wp-includes/ in /home/vafh5947/public_html/wp-content/plugins/woocommerce/templates/cart/mini-cart.php on line 24
+
+2021-11-24T09:18:37+00:00 CRITICAL Uncaught Error: Call to a member function is_empty() on null in /home/vafh5947/public_html/wp-content/plugins/woocommerce/templates/cart/mini-cart.php:24
+Stack trace:
+#0 /home/vafh5947/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include()
+#1 /home/vafh5947/public_html/wp-content/plugins/woocommerce/includes/wc-template-functions.php(2215): wc_get_template('cart/mini-cart....', Array)
+#2 /home/vafh5947/public_html/wp-content/themes/ornaldo/inc/woo/functions.php(146): woocommerce_mini_cart()
+#3 /home/vafh5947/public_html/wp-includes/class-wp-hook.php(303): ftc_canvas_cart('')
+#4 /home/vafh5947/public_html/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#5 /home/vafh5947/public_html/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#6 /home/vafh5947/public_html/wp-includes/general-template.php(3031): do_action('wp_footer')
+#7 /home/vafh5947/public_html/wp-includes/blocks/legacy-widget.php(123): wp_footer()
+#8 /home/vafh5947/public_html/wp-includes/ in /home/vafh5947/public_html/wp-content/plugins/woocommerce/templates/cart/mini-cart.php on line 24
+
+2021-11-24T09:18:38+00:00 CRITICAL Uncaught Error: Call to a member function is_empty() on null in /home/vafh5947/public_html/wp-content/plugins/woocommerce/templates/cart/mini-cart.php:24
+Stack trace:
+#0 /home/vafh5947/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include()
+#1 /home/vafh5947/public_html/wp-content/plugins/woocommerce/includes/wc-template-functions.php(2215): wc_get_template('cart/mini-cart....', Array)
+#2 /home/vafh5947/public_html/wp-content/themes/ornaldo/inc/woo/functions.php(146): woocommerce_mini_cart()
+#3 /home/vafh5947/public_html/wp-includes/class-wp-hook.php(303): ftc_canvas_cart('')
+#4 /home/vafh5947/public_html/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#5 /home/vafh5947/public_html/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#6 /home/vafh5947/public_html/wp-includes/general-template.php(3031): do_action('wp_footer')
+#7 /home/vafh5947/public_html/wp-includes/blocks/legacy-widget.php(123): wp_footer()
+#8 /home/vafh5947/public_html/wp-includes/ in /home/vafh5947/public_html/wp-content/plugins/woocommerce/templates/cart/mini-cart.php on line 24
+
+2021-11-24T09:18:38+00:00 CRITICAL Uncaught Error: Call to a member function is_empty() on null in /home/vafh5947/public_html/wp-content/plugins/woocommerce/templates/cart/mini-cart.php:24
+Stack trace:
+#0 /home/vafh5947/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include()
+#1 /home/vafh5947/public_html/wp-content/plugins/woocommerce/includes/wc-template-functions.php(2215): wc_get_template('cart/mini-cart....', Array)
+#2 /home/vafh5947/public_html/wp-content/themes/ornaldo/inc/woo/functions.php(146): woocommerce_mini_cart()
+#3 /home/vafh5947/public_html/wp-includes/class-wp-hook.php(303): ftc_canvas_cart('')
+#4 /home/vafh5947/public_html/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#5 /home/vafh5947/public_html/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#6 /home/vafh5947/public_html/wp-includes/general-template.php(3031): do_action('wp_footer')
+#7 /home/vafh5947/public_html/wp-includes/blocks/legacy-widget.php(123): wp_footer()
+#8 /home/vafh5947/public_html/wp-includes/ in /home/vafh5947/public_html/wp-content/plugins/woocommerce/templates/cart/mini-cart.php on line 24
+
+2021-11-24T09:18:39+00:00 CRITICAL Uncaught Error: Call to a member function is_empty() on null in /home/vafh5947/public_html/wp-content/plugins/woocommerce/templates/cart/mini-cart.php:24
+Stack trace:
+#0 /home/vafh5947/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include()
+#1 /home/vafh5947/public_html/wp-content/plugins/woocommerce/includes/wc-template-functions.php(2215): wc_get_template('cart/mini-cart....', Array)
+#2 /home/vafh5947/public_html/wp-content/themes/ornaldo/inc/woo/functions.php(146): woocommerce_mini_cart()
+#3 /home/vafh5947/public_html/wp-includes/class-wp-hook.php(303): ftc_canvas_cart('')
+#4 /home/vafh5947/public_html/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#5 /home/vafh5947/public_html/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#6 /home/vafh5947/public_html/wp-includes/general-template.php(3031): do_action('wp_footer')
+#7 /home/vafh5947/public_html/wp-includes/blocks/legacy-widget.php(123): wp_footer()
+#8 /home/vafh5947/public_html/wp-includes/ in /home/vafh5947/public_html/wp-content/plugins/woocommerce/templates/cart/mini-cart.php on line 24
+
+2021-11-24T09:18:40+00:00 CRITICAL Uncaught Error: Call to a member function is_empty() on null in /home/vafh5947/public_html/wp-content/plugins/woocommerce/templates/cart/mini-cart.php:24
+Stack trace:
+#0 /home/vafh5947/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include()
+#1 /home/vafh5947/public_html/wp-content/plugins/woocommerce/includes/wc-template-functions.php(2215): wc_get_template('cart/mini-cart....', Array)
+#2 /home/vafh5947/public_html/wp-content/themes/ornaldo/inc/woo/functions.php(146): woocommerce_mini_cart()
+#3 /home/vafh5947/public_html/wp-includes/class-wp-hook.php(303): ftc_canvas_cart('')
+#4 /home/vafh5947/public_html/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#5 /home/vafh5947/public_html/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#6 /home/vafh5947/public_html/wp-includes/general-template.php(3031): do_action('wp_footer')
+#7 /home/vafh5947/public_html/wp-includes/blocks/legacy-widget.php(123): wp_footer()
+#8 /home/vafh5947/public_html/wp-includes/ in /home/vafh5947/public_html/wp-content/plugins/woocommerce/templates/cart/mini-cart.php on line 24
+
+2021-11-24T09:18:40+00:00 CRITICAL Uncaught Error: Call to a member function is_empty() on null in /home/vafh5947/public_html/wp-content/plugins/woocommerce/templates/cart/mini-cart.php:24
+Stack trace:
+#0 /home/vafh5947/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include()
+#1 /home/vafh5947/public_html/wp-content/plugins/woocommerce/includes/wc-template-functions.php(2215): wc_get_template('cart/mini-cart....', Array)
+#2 /home/vafh5947/public_html/wp-content/themes/ornaldo/inc/woo/functions.php(146): woocommerce_mini_cart()
+#3 /home/vafh5947/public_html/wp-includes/class-wp-hook.php(303): ftc_canvas_cart('')
+#4 /home/vafh5947/public_html/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#5 /home/vafh5947/public_html/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#6 /home/vafh5947/public_html/wp-includes/general-template.php(3031): do_action('wp_footer')
+#7 /home/vafh5947/public_html/wp-includes/blocks/legacy-widget.php(123): wp_footer()
+#8 /home/vafh5947/public_html/wp-includes/ in /home/vafh5947/public_html/wp-content/plugins/woocommerce/templates/cart/mini-cart.php on line 24
+
+2021-11-24T09:18:40+00:00 CRITICAL Uncaught Error: Call to a member function is_empty() on null in /home/vafh5947/public_html/wp-content/plugins/woocommerce/templates/cart/mini-cart.php:24
+Stack trace:
+#0 /home/vafh5947/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include()
+#1 /home/vafh5947/public_html/wp-content/plugins/woocommerce/includes/wc-template-functions.php(2215): wc_get_template('cart/mini-cart....', Array)
+#2 /home/vafh5947/public_html/wp-content/themes/ornaldo/inc/woo/functions.php(146): woocommerce_mini_cart()
+#3 /home/vafh5947/public_html/wp-includes/class-wp-hook.php(303): ftc_canvas_cart('')
+#4 /home/vafh5947/public_html/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#5 /home/vafh5947/public_html/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#6 /home/vafh5947/public_html/wp-includes/general-template.php(3031): do_action('wp_footer')
+#7 /home/vafh5947/public_html/wp-includes/blocks/legacy-widget.php(123): wp_footer()
+#8 /home/vafh5947/public_html/wp-includes/ in /home/vafh5947/public_html/wp-content/plugins/woocommerce/templates/cart/mini-cart.php on line 24
+
+2021-11-24T09:18:41+00:00 CRITICAL Uncaught Error: Call to a member function is_empty() on null in /home/vafh5947/public_html/wp-content/plugins/woocommerce/templates/cart/mini-cart.php:24
+Stack trace:
+#0 /home/vafh5947/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include()
+#1 /home/vafh5947/public_html/wp-content/plugins/woocommerce/includes/wc-template-functions.php(2215): wc_get_template('cart/mini-cart....', Array)
+#2 /home/vafh5947/public_html/wp-content/themes/ornaldo/inc/woo/functions.php(146): woocommerce_mini_cart()
+#3 /home/vafh5947/public_html/wp-includes/class-wp-hook.php(303): ftc_canvas_cart('')
+#4 /home/vafh5947/public_html/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#5 /home/vafh5947/public_html/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#6 /home/vafh5947/public_html/wp-includes/general-template.php(3031): do_action('wp_footer')
+#7 /home/vafh5947/public_html/wp-includes/blocks/legacy-widget.php(123): wp_footer()
+#8 /home/vafh5947/public_html/wp-includes/ in /home/vafh5947/public_html/wp-content/plugins/woocommerce/templates/cart/mini-cart.php on line 24
+
+2021-11-24T09:18:41+00:00 CRITICAL Uncaught Error: Call to a member function is_empty() on null in /home/vafh5947/public_html/wp-content/plugins/woocommerce/templates/cart/mini-cart.php:24
+Stack trace:
+#0 /home/vafh5947/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include()
+#1 /home/vafh5947/public_html/wp-content/plugins/woocommerce/includes/wc-template-functions.php(2215): wc_get_template('cart/mini-cart....', Array)
+#2 /home/vafh5947/public_html/wp-content/themes/ornaldo/inc/woo/functions.php(146): woocommerce_mini_cart()
+#3 /home/vafh5947/public_html/wp-includes/class-wp-hook.php(303): ftc_canvas_cart('')
+#4 /home/vafh5947/public_html/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#5 /home/vafh5947/public_html/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#6 /home/vafh5947/public_html/wp-includes/general-template.php(3031): do_action('wp_footer')
+#7 /home/vafh5947/public_html/wp-includes/blocks/legacy-widget.php(123): wp_footer()
+#8 /home/vafh5947/public_html/wp-includes/ in /home/vafh5947/public_html/wp-content/plugins/woocommerce/templates/cart/mini-cart.php on line 24
+
+2021-11-24T09:18:41+00:00 CRITICAL Uncaught Error: Call to a member function is_empty() on null in /home/vafh5947/public_html/wp-content/plugins/woocommerce/templates/cart/mini-cart.php:24
+Stack trace:
+#0 /home/vafh5947/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include()
+#1 /home/vafh5947/public_html/wp-content/plugins/woocommerce/includes/wc-template-functions.php(2215): wc_get_template('cart/mini-cart....', Array)
+#2 /home/vafh5947/public_html/wp-content/themes/ornaldo/inc/woo/functions.php(146): woocommerce_mini_cart()
+#3 /home/vafh5947/public_html/wp-includes/class-wp-hook.php(303): ftc_canvas_cart('')
+#4 /home/vafh5947/public_html/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#5 /home/vafh5947/public_html/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#6 /home/vafh5947/public_html/wp-includes/general-template.php(3031): do_action('wp_footer')
+#7 /home/vafh5947/public_html/wp-includes/blocks/legacy-widget.php(123): wp_footer()
+#8 /home/vafh5947/public_html/wp-includes/ in /home/vafh5947/public_html/wp-content/plugins/woocommerce/templates/cart/mini-cart.php on line 24
+
+2021-11-24T09:18:41+00:00 CRITICAL Uncaught Error: Call to a member function is_empty() on null in /home/vafh5947/public_html/wp-content/plugins/woocommerce/templates/cart/mini-cart.php:24
+Stack trace:
+#0 /home/vafh5947/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include()
+#1 /home/vafh5947/public_html/wp-content/plugins/woocommerce/includes/wc-template-functions.php(2215): wc_get_template('cart/mini-cart....', Array)
+#2 /home/vafh5947/public_html/wp-content/themes/ornaldo/inc/woo/functions.php(146): woocommerce_mini_cart()
+#3 /home/vafh5947/public_html/wp-includes/class-wp-hook.php(303): ftc_canvas_cart('')
+#4 /home/vafh5947/public_html/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#5 /home/vafh5947/public_html/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#6 /home/vafh5947/public_html/wp-includes/general-template.php(3031): do_action('wp_footer')
+#7 /home/vafh5947/public_html/wp-includes/blocks/legacy-widget.php(123): wp_footer()
+#8 /home/vafh5947/public_html/wp-includes/ in /home/vafh5947/public_html/wp-content/plugins/woocommerce/templates/cart/mini-cart.php on line 24
+
+2021-11-24T09:18:41+00:00 CRITICAL Uncaught Error: Call to a member function is_empty() on null in /home/vafh5947/public_html/wp-content/plugins/woocommerce/templates/cart/mini-cart.php:24
+Stack trace:
+#0 /home/vafh5947/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include()
+#1 /home/vafh5947/public_html/wp-content/plugins/woocommerce/includes/wc-template-functions.php(2215): wc_get_template('cart/mini-cart....', Array)
+#2 /home/vafh5947/public_html/wp-content/themes/ornaldo/inc/woo/functions.php(146): woocommerce_mini_cart()
+#3 /home/vafh5947/public_html/wp-includes/class-wp-hook.php(303): ftc_canvas_cart('')
+#4 /home/vafh5947/public_html/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#5 /home/vafh5947/public_html/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#6 /home/vafh5947/public_html/wp-includes/general-template.php(3031): do_action('wp_footer')
+#7 /home/vafh5947/public_html/wp-includes/blocks/legacy-widget.php(123): wp_footer()
+#8 /home/vafh5947/public_html/wp-includes/ in /home/vafh5947/public_html/wp-content/plugins/woocommerce/templates/cart/mini-cart.php on line 24
+
+2021-11-24T09:18:42+00:00 CRITICAL Uncaught Error: Call to a member function is_empty() on null in /home/vafh5947/public_html/wp-content/plugins/woocommerce/templates/cart/mini-cart.php:24
+Stack trace:
+#0 /home/vafh5947/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include()
+#1 /home/vafh5947/public_html/wp-content/plugins/woocommerce/includes/wc-template-functions.php(2215): wc_get_template('cart/mini-cart....', Array)
+#2 /home/vafh5947/public_html/wp-content/themes/ornaldo/inc/woo/functions.php(146): woocommerce_mini_cart()
+#3 /home/vafh5947/public_html/wp-includes/class-wp-hook.php(303): ftc_canvas_cart('')
+#4 /home/vafh5947/public_html/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#5 /home/vafh5947/public_html/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#6 /home/vafh5947/public_html/wp-includes/general-template.php(3031): do_action('wp_footer')
+#7 /home/vafh5947/public_html/wp-includes/blocks/legacy-widget.php(123): wp_footer()
+#8 /home/vafh5947/public_html/wp-includes/ in /home/vafh5947/public_html/wp-content/plugins/woocommerce/templates/cart/mini-cart.php on line 24
+
+2021-11-24T09:18:42+00:00 CRITICAL Uncaught Error: Call to a member function is_empty() on null in /home/vafh5947/public_html/wp-content/plugins/woocommerce/templates/cart/mini-cart.php:24
+Stack trace:
+#0 /home/vafh5947/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include()
+#1 /home/vafh5947/public_html/wp-content/plugins/woocommerce/includes/wc-template-functions.php(2215): wc_get_template('cart/mini-cart....', Array)
+#2 /home/vafh5947/public_html/wp-content/themes/ornaldo/inc/woo/functions.php(146): woocommerce_mini_cart()
+#3 /home/vafh5947/public_html/wp-includes/class-wp-hook.php(303): ftc_canvas_cart('')
+#4 /home/vafh5947/public_html/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#5 /home/vafh5947/public_html/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#6 /home/vafh5947/public_html/wp-includes/general-template.php(3031): do_action('wp_footer')
+#7 /home/vafh5947/public_html/wp-includes/blocks/legacy-widget.php(123): wp_footer()
+#8 /home/vafh5947/public_html/wp-includes/ in /home/vafh5947/public_html/wp-content/plugins/woocommerce/templates/cart/mini-cart.php on line 24
+
+2021-11-24T09:18:42+00:00 CRITICAL Uncaught Error: Call to a member function is_empty() on null in /home/vafh5947/public_html/wp-content/plugins/woocommerce/templates/cart/mini-cart.php:24
+Stack trace:
+#0 /home/vafh5947/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include()
+#1 /home/vafh5947/public_html/wp-content/plugins/woocommerce/includes/wc-template-functions.php(2215): wc_get_template('cart/mini-cart....', Array)
+#2 /home/vafh5947/public_html/wp-content/themes/ornaldo/inc/woo/functions.php(146): woocommerce_mini_cart()
+#3 /home/vafh5947/public_html/wp-includes/class-wp-hook.php(303): ftc_canvas_cart('')
+#4 /home/vafh5947/public_html/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#5 /home/vafh5947/public_html/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#6 /home/vafh5947/public_html/wp-includes/general-template.php(3031): do_action('wp_footer')
+#7 /home/vafh5947/public_html/wp-includes/blocks/legacy-widget.php(123): wp_footer()
+#8 /home/vafh5947/public_html/wp-includes/ in /home/vafh5947/public_html/wp-content/plugins/woocommerce/templates/cart/mini-cart.php on line 24
+
+2021-11-24T09:19:51+00:00 CRITICAL Uncaught Error: Call to a member function is_empty() on null in /home/vafh5947/public_html/wp-content/plugins/woocommerce/templates/cart/mini-cart.php:24
+Stack trace:
+#0 /home/vafh5947/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include()
+#1 /home/vafh5947/public_html/wp-content/plugins/woocommerce/includes/wc-template-functions.php(2215): wc_get_template('cart/mini-cart....', Array)
+#2 /home/vafh5947/public_html/wp-content/themes/ornaldo/inc/woo/functions.php(146): woocommerce_mini_cart()
+#3 /home/vafh5947/public_html/wp-includes/class-wp-hook.php(303): ftc_canvas_cart('')
+#4 /home/vafh5947/public_html/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#5 /home/vafh5947/public_html/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#6 /home/vafh5947/public_html/wp-includes/general-template.php(3031): do_action('wp_footer')
+#7 /home/vafh5947/public_html/wp-includes/blocks/legacy-widget.php(123): wp_footer()
+#8 /home/vafh5947/public_html/wp-includes/ in /home/vafh5947/public_html/wp-content/plugins/woocommerce/templates/cart/mini-cart.php on line 24
+
+2021-11-24T09:19:59+00:00 CRITICAL Uncaught Error: Call to a member function is_empty() on null in /home/vafh5947/public_html/wp-content/plugins/woocommerce/templates/cart/mini-cart.php:24
+Stack trace:
+#0 /home/vafh5947/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include()
+#1 /home/vafh5947/public_html/wp-content/plugins/woocommerce/includes/wc-template-functions.php(2215): wc_get_template('cart/mini-cart....', Array)
+#2 /home/vafh5947/public_html/wp-content/themes/ornaldo/inc/woo/functions.php(146): woocommerce_mini_cart()
+#3 /home/vafh5947/public_html/wp-includes/class-wp-hook.php(303): ftc_canvas_cart('')
+#4 /home/vafh5947/public_html/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#5 /home/vafh5947/public_html/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#6 /home/vafh5947/public_html/wp-includes/general-template.php(3031): do_action('wp_footer')
+#7 /home/vafh5947/public_html/wp-includes/blocks/legacy-widget.php(123): wp_footer()
+#8 /home/vafh5947/public_html/wp-includes/ in /home/vafh5947/public_html/wp-content/plugins/woocommerce/templates/cart/mini-cart.php on line 24
+
+2021-11-24T09:19:59+00:00 CRITICAL Uncaught Error: Call to a member function is_empty() on null in /home/vafh5947/public_html/wp-content/plugins/woocommerce/templates/cart/mini-cart.php:24
+Stack trace:
+#0 /home/vafh5947/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include()
+#1 /home/vafh5947/public_html/wp-content/plugins/woocommerce/includes/wc-template-functions.php(2215): wc_get_template('cart/mini-cart....', Array)
+#2 /home/vafh5947/public_html/wp-content/themes/ornaldo/inc/woo/functions.php(146): woocommerce_mini_cart()
+#3 /home/vafh5947/public_html/wp-includes/class-wp-hook.php(303): ftc_canvas_cart('')
+#4 /home/vafh5947/public_html/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#5 /home/vafh5947/public_html/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#6 /home/vafh5947/public_html/wp-includes/general-template.php(3031): do_action('wp_footer')
+#7 /home/vafh5947/public_html/wp-includes/blocks/legacy-widget.php(123): wp_footer()
+#8 /home/vafh5947/public_html/wp-includes/ in /home/vafh5947/public_html/wp-content/plugins/woocommerce/templates/cart/mini-cart.php on line 24
+
+2021-11-24T09:20:02+00:00 CRITICAL Uncaught Error: Call to a member function is_empty() on null in /home/vafh5947/public_html/wp-content/plugins/woocommerce/templates/cart/mini-cart.php:24
+Stack trace:
+#0 /home/vafh5947/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include()
+#1 /home/vafh5947/public_html/wp-content/plugins/woocommerce/includes/wc-template-functions.php(2215): wc_get_template('cart/mini-cart....', Array)
+#2 /home/vafh5947/public_html/wp-content/themes/ornaldo/inc/woo/functions.php(146): woocommerce_mini_cart()
+#3 /home/vafh5947/public_html/wp-includes/class-wp-hook.php(303): ftc_canvas_cart('')
+#4 /home/vafh5947/public_html/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#5 /home/vafh5947/public_html/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#6 /home/vafh5947/public_html/wp-includes/general-template.php(3031): do_action('wp_footer')
+#7 /home/vafh5947/public_html/wp-includes/blocks/legacy-widget.php(123): wp_footer()
+#8 /home/vafh5947/public_html/wp-includes/ in /home/vafh5947/public_html/wp-content/plugins/woocommerce/templates/cart/mini-cart.php on line 24
+
+2021-11-24T09:20:02+00:00 CRITICAL Uncaught Error: Call to a member function is_empty() on null in /home/vafh5947/public_html/wp-content/plugins/woocommerce/templates/cart/mini-cart.php:24
+Stack trace:
+#0 /home/vafh5947/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include()
+#1 /home/vafh5947/public_html/wp-content/plugins/woocommerce/includes/wc-template-functions.php(2215): wc_get_template('cart/mini-cart....', Array)
+#2 /home/vafh5947/public_html/wp-content/themes/ornaldo/inc/woo/functions.php(146): woocommerce_mini_cart()
+#3 /home/vafh5947/public_html/wp-includes/class-wp-hook.php(303): ftc_canvas_cart('')
+#4 /home/vafh5947/public_html/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#5 /home/vafh5947/public_html/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#6 /home/vafh5947/public_html/wp-includes/general-template.php(3031): do_action('wp_footer')
+#7 /home/vafh5947/public_html/wp-includes/blocks/legacy-widget.php(123): wp_footer()
+#8 /home/vafh5947/public_html/wp-includes/ in /home/vafh5947/public_html/wp-content/plugins/woocommerce/templates/cart/mini-cart.php on line 24
+
+2021-11-24T09:20:02+00:00 CRITICAL Uncaught Error: Call to a member function is_empty() on null in /home/vafh5947/public_html/wp-content/plugins/woocommerce/templates/cart/mini-cart.php:24
+Stack trace:
+#0 /home/vafh5947/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include()
+#1 /home/vafh5947/public_html/wp-content/plugins/woocommerce/includes/wc-template-functions.php(2215): wc_get_template('cart/mini-cart....', Array)
+#2 /home/vafh5947/public_html/wp-content/themes/ornaldo/inc/woo/functions.php(146): woocommerce_mini_cart()
+#3 /home/vafh5947/public_html/wp-includes/class-wp-hook.php(303): ftc_canvas_cart('')
+#4 /home/vafh5947/public_html/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#5 /home/vafh5947/public_html/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#6 /home/vafh5947/public_html/wp-includes/general-template.php(3031): do_action('wp_footer')
+#7 /home/vafh5947/public_html/wp-includes/blocks/legacy-widget.php(123): wp_footer()
+#8 /home/vafh5947/public_html/wp-includes/ in /home/vafh5947/public_html/wp-content/plugins/woocommerce/templates/cart/mini-cart.php on line 24
+
+2021-11-24T09:20:02+00:00 CRITICAL Uncaught Error: Call to a member function is_empty() on null in /home/vafh5947/public_html/wp-content/plugins/woocommerce/templates/cart/mini-cart.php:24
+Stack trace:
+#0 /home/vafh5947/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include()
+#1 /home/vafh5947/public_html/wp-content/plugins/woocommerce/includes/wc-template-functions.php(2215): wc_get_template('cart/mini-cart....', Array)
+#2 /home/vafh5947/public_html/wp-content/themes/ornaldo/inc/woo/functions.php(146): woocommerce_mini_cart()
+#3 /home/vafh5947/public_html/wp-includes/class-wp-hook.php(303): ftc_canvas_cart('')
+#4 /home/vafh5947/public_html/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#5 /home/vafh5947/public_html/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#6 /home/vafh5947/public_html/wp-includes/general-template.php(3031): do_action('wp_footer')
+#7 /home/vafh5947/public_html/wp-includes/blocks/legacy-widget.php(123): wp_footer()
+#8 /home/vafh5947/public_html/wp-includes/ in /home/vafh5947/public_html/wp-content/plugins/woocommerce/templates/cart/mini-cart.php on line 24
+
+2021-11-24T09:22:58+00:00 CRITICAL Uncaught Error: Call to a member function is_empty() on null in /home/vafh5947/public_html/wp-content/plugins/woocommerce/templates/cart/mini-cart.php:24
+Stack trace:
+#0 /home/vafh5947/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include()
+#1 /home/vafh5947/public_html/wp-content/plugins/woocommerce/includes/wc-template-functions.php(2215): wc_get_template('cart/mini-cart....', Array)
+#2 /home/vafh5947/public_html/wp-content/themes/ornaldo/inc/woo/functions.php(146): woocommerce_mini_cart()
+#3 /home/vafh5947/public_html/wp-includes/class-wp-hook.php(303): ftc_canvas_cart('')
+#4 /home/vafh5947/public_html/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#5 /home/vafh5947/public_html/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#6 /home/vafh5947/public_html/wp-includes/general-template.php(3031): do_action('wp_footer')
+#7 /home/vafh5947/public_html/wp-includes/blocks/legacy-widget.php(123): wp_footer()
+#8 /home/vafh5947/public_html/wp-includes/ in /home/vafh5947/public_html/wp-content/plugins/woocommerce/templates/cart/mini-cart.php on line 24
+
+2021-11-24T09:22:58+00:00 CRITICAL Uncaught Error: Call to a member function is_empty() on null in /home/vafh5947/public_html/wp-content/plugins/woocommerce/templates/cart/mini-cart.php:24
+Stack trace:
+#0 /home/vafh5947/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include()
+#1 /home/vafh5947/public_html/wp-content/plugins/woocommerce/includes/wc-template-functions.php(2215): wc_get_template('cart/mini-cart....', Array)
+#2 /home/vafh5947/public_html/wp-content/themes/ornaldo/inc/woo/functions.php(146): woocommerce_mini_cart()
+#3 /home/vafh5947/public_html/wp-includes/class-wp-hook.php(303): ftc_canvas_cart('')
+#4 /home/vafh5947/public_html/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#5 /home/vafh5947/public_html/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#6 /home/vafh5947/public_html/wp-includes/general-template.php(3031): do_action('wp_footer')
+#7 /home/vafh5947/public_html/wp-includes/blocks/legacy-widget.php(123): wp_footer()
+#8 /home/vafh5947/public_html/wp-includes/ in /home/vafh5947/public_html/wp-content/plugins/woocommerce/templates/cart/mini-cart.php on line 24
+
+2021-11-24T09:22:59+00:00 CRITICAL Uncaught Error: Call to a member function is_empty() on null in /home/vafh5947/public_html/wp-content/plugins/woocommerce/templates/cart/mini-cart.php:24
+Stack trace:
+#0 /home/vafh5947/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include()
+#1 /home/vafh5947/public_html/wp-content/plugins/woocommerce/includes/wc-template-functions.php(2215): wc_get_template('cart/mini-cart....', Array)
+#2 /home/vafh5947/public_html/wp-content/themes/ornaldo/inc/woo/functions.php(146): woocommerce_mini_cart()
+#3 /home/vafh5947/public_html/wp-includes/class-wp-hook.php(303): ftc_canvas_cart('')
+#4 /home/vafh5947/public_html/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#5 /home/vafh5947/public_html/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#6 /home/vafh5947/public_html/wp-includes/general-template.php(3031): do_action('wp_footer')
+#7 /home/vafh5947/public_html/wp-includes/blocks/legacy-widget.php(123): wp_footer()
+#8 /home/vafh5947/public_html/wp-includes/ in /home/vafh5947/public_html/wp-content/plugins/woocommerce/templates/cart/mini-cart.php on line 24
+
+2021-11-24T09:22:59+00:00 CRITICAL Uncaught Error: Call to a member function is_empty() on null in /home/vafh5947/public_html/wp-content/plugins/woocommerce/templates/cart/mini-cart.php:24
+Stack trace:
+#0 /home/vafh5947/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include()
+#1 /home/vafh5947/public_html/wp-content/plugins/woocommerce/includes/wc-template-functions.php(2215): wc_get_template('cart/mini-cart....', Array)
+#2 /home/vafh5947/public_html/wp-content/themes/ornaldo/inc/woo/functions.php(146): woocommerce_mini_cart()
+#3 /home/vafh5947/public_html/wp-includes/class-wp-hook.php(303): ftc_canvas_cart('')
+#4 /home/vafh5947/public_html/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#5 /home/vafh5947/public_html/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#6 /home/vafh5947/public_html/wp-includes/general-template.php(3031): do_action('wp_footer')
+#7 /home/vafh5947/public_html/wp-includes/blocks/legacy-widget.php(123): wp_footer()
+#8 /home/vafh5947/public_html/wp-includes/ in /home/vafh5947/public_html/wp-content/plugins/woocommerce/templates/cart/mini-cart.php on line 24
+

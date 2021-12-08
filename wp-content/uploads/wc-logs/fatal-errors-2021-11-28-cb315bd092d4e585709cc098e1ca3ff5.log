@@ -1,0 +1,12 @@
+2021-11-28T06:07:20+00:00 CRITICAL Allowed memory size of 268435456 bytes exhausted (tried to allocate 134217736 bytes) in /home/vafh5947/public_html/wp-includes/class-wp-text-diff-renderer-table.php on line 419
+
+2021-11-28T06:07:24+00:00 CRITICAL Allowed memory size of 268435456 bytes exhausted (tried to allocate 134217736 bytes) in /home/vafh5947/public_html/wp-includes/class-wp-text-diff-renderer-table.php on line 419
+
+2021-11-28T06:07:28+00:00 CRITICAL Allowed memory size of 268435456 bytes exhausted (tried to allocate 134217736 bytes) in /home/vafh5947/public_html/wp-includes/class-wp-text-diff-renderer-table.php on line 419
+
+2021-11-28T06:07:33+00:00 CRITICAL Allowed memory size of 268435456 bytes exhausted (tried to allocate 134217736 bytes) in /home/vafh5947/public_html/wp-includes/class-wp-text-diff-renderer-table.php on line 419
+
+2021-11-28T06:07:37+00:00 CRITICAL Allowed memory size of 268435456 bytes exhausted (tried to allocate 134217736 bytes) in /home/vafh5947/public_html/wp-includes/class-wp-text-diff-renderer-table.php on line 419
+
+2021-11-28T06:07:42+00:00 CRITICAL Allowed memory size of 268435456 bytes exhausted (tried to allocate 134217736 bytes) in /home/vafh5947/public_html/wp-includes/class-wp-text-diff-renderer-table.php on line 419
+

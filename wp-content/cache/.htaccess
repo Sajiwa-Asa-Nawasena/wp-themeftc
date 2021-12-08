@@ -1,0 +1,7 @@
+
+# BEGIN INDEX
+# Arahan (baris) antara "BEGIN INDEX" dan "END INDEX"
+# dihasilkan secara dinamis, dan hanya dapat dimodifikasi melalui filter WordPress.
+# Setiap perubahan pada arahan di antara penanda berikut akan ditimpa.
+Options -Indexes
+# END INDEX

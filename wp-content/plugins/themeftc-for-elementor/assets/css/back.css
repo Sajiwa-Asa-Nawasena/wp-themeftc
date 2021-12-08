@@ -1,0 +1,38 @@
+.elementor-control.elementor-control-select_slider .elementor-control-field .elementor-control-input-wrapper {
+    width: 60%;
+}
+i.ftc-icon {
+   display: inline-block;
+    height: 35px;
+    background-image: url(./assets/images/favicon.ico);
+    width: 35px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin: -10px 0;
+}
+i.ftc-icon:before {
+    content: "FTC";
+    position: absolute;
+    font-size: 11px;
+    padding: 4px;
+    font-style: normal;
+    text-decoration: none;
+    right: 0;
+    top: 0px;
+    border: 1px solid #b7b0b0;
+    border-width: 0 0 1px 1px;
+}
+.elementor-element-wrapper:hover .ftc-icon:before {
+    background-color: #000;
+    color: #fff;
+}
+.elementor-element {
+    position: relative;
+}
+.select2-results__option[aria-selected=true]:not(.select2-results__option--highlighted) {
+    background-color: #ddd;
+}
+
+.select2-container--default .select2-selection--multiple .select2-selection__rendered{
+    min-width: 120px;
+}
