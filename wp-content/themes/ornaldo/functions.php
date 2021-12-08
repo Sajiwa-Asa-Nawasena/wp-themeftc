@@ -800,7 +800,7 @@ if( ! function_exists( 'ftc_header_mobile_navigation' ) ) {
                 <div class="mobile-menu-wrapper">
                     <?php wp_nav_menu( array( 'theme_location' => '','menu' => 'main menu', 'menu_id' => 'main-menu', 'menu_class' => 'ftc-smartmenu ftc-simple') ); ?>
                 </div>
-                <?php
+                <!-- <?php
                     global $smof_data, $woocommerce;
                     if ($smof_data['ftc_mobile_layout']): 
                 ?>
@@ -823,7 +823,7 @@ if( ! function_exists( 'ftc_header_mobile_navigation' ) ) {
                             <?php endif; ?>
                         </a>
                     </div>
-                <?php endif; ?>
+                <?php endif; ?> -->
                 <?php if(isset($smof_data['ftc_header_social_editor'])) { ?>
                     <div class="header-mobile-social">
                         <?php echo wp_kses_post( do_shortcode($smof_data['ftc_header_social_editor']) ); ?>
