@@ -771,6 +771,7 @@ function ftc_class_editor_widget(){
       return true;
     }
 }
+
 /* Header Mobile Navigation */
 if( ! function_exists( 'ftc_header_mobile_navigation' ) ) {
     function ftc_header_mobile_navigation() {
@@ -824,7 +825,7 @@ if( ! function_exists( 'ftc_header_mobile_navigation' ) ) {
                     </div>
                 <?php endif; ?> -->
             </div>
-            <?php if(isset($smof_data['ftc_header_social_editor'])){ ?>
+            <?php if(isset($smof_data['ftc_header_social_editor'])) { ?>
                 <div class="header-mobile-social">
                     <?php echo wp_kses_post( do_shortcode($smof_data['ftc_header_social_editor']) ); ?>
                 </div>
@@ -833,9 +834,8 @@ if( ! function_exists( 'ftc_header_mobile_navigation' ) ) {
     }
 }
 
-/* * * Logo Mobile** */
-if (!function_exists('ftc_theme_mobile_logo')) {
-
+/* * * Logo Mobile * * */
+<?php if (!function_exists('ftc_theme_mobile_logo')) {
     function ftc_theme_mobile_logo() {
         global $smof_data;
         $logo_image = isset($smof_data['ftc_logo_mobile']['url']) ? esc_url($smof_data['ftc_logo_mobile']['url']) : '';
@@ -856,13 +856,11 @@ if (!function_exists('ftc_theme_mobile_logo')) {
                 ?>
             </a>
         </div>
-        <?php
     }
-
 }
 
 /* * * Favicon ** */
-if (!function_exists('ftc_theme_favicon')) {
+<?php if (!function_exists('ftc_theme_favicon')) {
 
     function ftc_theme_favicon() {
         if (function_exists('wp_site_icon') && function_exists('has_site_icon') && has_site_icon()) {
