@@ -824,12 +824,12 @@ if( ! function_exists( 'ftc_header_mobile_navigation' ) ) {
                         </a>
                     </div>
                 <?php endif; ?>
+                <?php if(isset($smof_data['ftc_header_social_editor'])) { ?>
+                    <div class="header-mobile-social">
+                        <?php echo wp_kses_post( do_shortcode($smof_data['ftc_header_social_editor']) ); ?>
+                    </div>
+                <?php } ?>
             </div>
-            <?php if(isset($smof_data['ftc_header_social_editor'])) { ?>
-                <div class="header-mobile-social">
-                    <?php echo wp_kses_post( do_shortcode($smof_data['ftc_header_social_editor']) ); ?>
-                </div>
-            <?php } ?>
         <?php endif; ?>
     <?php
     }
