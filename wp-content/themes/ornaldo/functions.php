@@ -790,11 +790,11 @@ if( ! function_exists( 'ftc_header_mobile_navigation' ) ) {
                     <?php ftc_get_search_form_by_category(); ?>
                 <?php endif; ?>
                 <div class= "menu-text"> 
-                    <button type="button" class="btn btn-toggle-canvas btn-danger" data-toggle="offcanvas">
-                        <i class="fa fa-close"></i>
+                    <button type="button" class="btn btn-toggle-canvas" data-toggle="offcanvas">
+                        <i class="fas fa-fw fa-bars"></i>
+                        <!-- <i class="fa fa-close"></i> -->
                     </button>
-                    <i class="fa fa-bars"></i>
-                    <?php esc_html_e('Menu', 'ornaldo') ?>
+                    // <?php esc_html_e('Menu', 'ornaldo') ?>
                 </div>
 
                 <div class="mobile-menu-wrapper">
