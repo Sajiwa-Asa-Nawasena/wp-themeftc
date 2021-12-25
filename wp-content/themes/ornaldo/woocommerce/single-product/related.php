@@ -24,7 +24,7 @@ if ( $related_products ) : ?>
 
 	<div class="related products">
 
-		<h2><span class="bg-heading"><?php esc_html_e( 'Related products', 'ornaldo' ); ?></span></h2>
+		<h2><span class="bg-heading"><?php esc_html_e( 'Katalog Terkait', 'ornaldo' ); ?></span></h2>
 
 		<?php woocommerce_product_loop_start(); ?>
 
